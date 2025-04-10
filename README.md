@@ -1,11 +1,7 @@
-## Hi there 👋
+## Bonjour 👋
 
 
-**Luhan-gui** is a ✨ _special_ ✨ man.
+Je suis **Luhan Guiggia--Milon**, étudiant en BUT Informatique à L'IUT de Lannion
 
-- 🔭 I’m currently working on a secret project =)
-- 🌱 I’m currently learning programmation
-- 📫 How to reach me: Write me a mail
-- 😄 Pronouns: He/his
-- ⚡ Fun fact: I'm Italian and i cut my spaghetti
-
+Je suis à la recherche d'une alternance en Développement Logiciel ou Web dans le secteur de Lannion et ces alentours.
+Ce compte me sert pour mes études comme pour mes projets perso.
